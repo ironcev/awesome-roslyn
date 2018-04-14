@@ -27,6 +27,11 @@ Awesome open source projects built on top of Roslyn.
 - [SharpLab](https://sharplab.io/) - .NET code playground. Displays intermediate steps and results of code compilation. Shows the code as compiler sees it. Allows selecting different branches and versions of Roslyn. Runs C#, VB.NET, and F# code in the browser.
 - [Testura.Code](https://github.com/Testura/Testura.Code) - A wrapper around the Roslyn API used for generation, saving and compiling C# code. Provides methods and helpers to generate classes, methods, statements and expressions.
 
+## Open Source Analyzers, Code Fixes, and Refactorings
+Awesome open source analyzers, code fixes, and refactorings.
+
+- [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 190+ analyzers and 190+ refactorings for C#. Covers coding style, code readability and simplification, removing redundancies, fixing compiler errors and many more.
+
 ## Contribute
 
 Contributions are welcome :-) The goal is to build a categorized community-driven collection of very well-known resources. Before contributing, please read the [contribution guidelines](contributing.md).
