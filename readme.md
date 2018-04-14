@@ -15,8 +15,8 @@
 ## Open Source Projects
 Awesome open source projects built on top of Roslyn.
 
-- [SharpLab](https://sharplab.io/) - .NET code playground. Inspect intermediate steps and results of code compilation. See the code as compiler sees it. Test and use different branches and versions of Roslyn. Run C# code in the browser.
 - [MirrorSharp](https://github.com/ashmind/mirrorsharp) - An online C#, VB.NET, and F# code editor. Features code completion, method signature help, quick fixes, and diagnostics.
+- [SharpLab](https://sharplab.io/) - .NET code playground. Inspect intermediate steps and results of code compilation. See the code as compiler sees it. Test and use different branches and versions of Roslyn. Run C# code in the browser.
 
 ## Contribute
 
