@@ -8,6 +8,7 @@
 - [Tutorials](#tutorials)
 - [Open Source Projects](#open-source-projects)
 - [Open Source Analyzers, Code Fixes, and Refactorings](#open-source-analyzers-code-fixes-and-refactorings)
+- [Blog Posts and Articles](#blog-posts-and-articles)
 
 ## Books
 Awesome books to give you a good start with Roslyn.
