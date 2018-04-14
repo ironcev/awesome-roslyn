@@ -30,6 +30,7 @@ Awesome open source projects built on top of Roslyn.
 ## Open Source Analyzers, Code Fixes, and Refactorings
 Awesome open source analyzers, code fixes, and refactorings.
 
+- [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) - Diagnostic analyzers developed by the Roslyn team. Initially developed to help flesh out the design and implementation of the static analysis APIs. The analyzers cover code quality, .NET Core, desktop .NET Framework, comments in code, and more.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 190+ analyzers and 190+ refactorings for C#. Covers coding style, code readability and simplification, removing redundancies, fixing compiler errors and many more.
 
 ## Contribute
