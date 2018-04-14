@@ -5,11 +5,17 @@
 ## Contents
 
 - [Books](#books)
+- [Open Source Projects](#open-source-projects)
 
 ## Books
 - [Roslyn Succinctly](https://www.syncfusion.com/ebooks/roslyn) by Alessandro Del Sole *(free e-book)*
 - [Roslyn Cookbook](https://www.packtpub.com/application-development/roslyn-cookbook) by Manish Vasani
 - [.NET Development Using the Compiler API](https://www.apress.com/la/book/9781484221105) by Jason Bock
+
+## Open Source Projects
+Awesome open source projects built on top of Roslyn.
+
+- [SharpLab](https://sharplab.io/) - .NET code playground. Inspect intermediate steps and results of code compilation. See the code as compiler sees it. Test and use different branches and versions of Roslyn. Run C# code in the browser.
 
 ## Contribute
 
