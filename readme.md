@@ -7,7 +7,8 @@
 - [Books](#books)
 
 ## Books
-- [Roslyn Succinctly](https://www.syncfusion.com/ebooks/roslyn) by Alessandro Del Sole (free e-book)
+- [Roslyn Succinctly](https://www.syncfusion.com/ebooks/roslyn) by Alessandro Del Sole *(free e-book)*
+- [.NET Development Using the Compiler API](https://www.apress.com/la/book/9781484221105) by Jason Bock
 
 ## Contribute
 
