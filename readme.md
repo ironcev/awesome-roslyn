@@ -50,6 +50,7 @@ Awesome open source analyzers, code fixes, and refactorings.
 ## Blog Posts and Articles
 Awesome blog posts and online articles covering various topics like performance, Roslyn internals and similar.
 
+- [Inside the .NET Compiler Platform – Performance Considerations during Syntax Analysis (#SpeakRoslyn)](https://robinsedlaczek.com/2015/04/29/inside-the-net-compiler-platform-performance-considerations-during-syntax-analysis-speakroslyn/) - An in-depth look at Roslyn's performance with the focus on memory consumption.
 - [ReSharper and Roslyn: Q&A](https://blog.jetbrains.com/dotnet/2014/04/10/resharper-and-roslyn-qa/) - An excellent explanation why ReSharper will not use Roslyn. A good discussion on static code analysis and the limits of Roslyn.
 
 ## Contribute
