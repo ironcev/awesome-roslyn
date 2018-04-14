@@ -44,6 +44,7 @@ Awesome open source analyzers, code fixes, and refactorings.
 Awesome online tutorials to help you quickly learn Roslyn.
 
 - [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix) - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as syntax transformation.
+- [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - A bit older but still not outdated, very detailed MSDN article on writing code analyzers.
 
 ## Contribute
 
