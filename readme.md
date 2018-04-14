@@ -18,6 +18,7 @@ Awesome books to help you quickly learn Roslyn.
 ## Open Source Projects
 Awesome open source projects built on top of Roslyn.
 
+- [Code Converter](https://github.com/icsharpcode/CodeConverter/) - Converts code from C# to VB.NET and vice versa.
 - [MirrorSharp](https://github.com/ashmind/mirrorsharp) - An online C#, VB.NET, and F# code editor. Features code completion, method signature help, quick fixes, and diagnostics.
 - [OmniSharp](http://www.omnisharp.net/) - Enables a cross platform .NET development in the editor of your choice. A family of open source projects, each with one goal: To enable a great .NET experience in your editor of choice.
 - [roslyn-linq-rewrite](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code. This increases performance by minimizes heap allocations and dynamic dispatch.
