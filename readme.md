@@ -6,6 +6,7 @@
 
 - [Books](#books)
 - [Open Source Projects](#open-source-projects)
+- [Open Source Analyzers, Code Fixes, and Refactorings](#open-source-analyzers-code-fixes-and-refactorings)
 
 ## Books
 Awesome books to help you quickly learn Roslyn.
