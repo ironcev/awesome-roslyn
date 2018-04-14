@@ -20,6 +20,7 @@ Awesome open source projects built on top of Roslyn.
 - [MirrorSharp](https://github.com/ashmind/mirrorsharp) - An online C#, VB.NET, and F# code editor. Features code completion, method signature help, quick fixes, and diagnostics.
 - [roslyn-linq-rewrite](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code. This increases performance by minimizes heap allocations and dynamic dispatch.
 - [RoslynPad](https://roslynpad.net/) - A cross-platform C# editor. Features code completion, method signature help, quick fixes, and diagnostics.
+- [RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) - A tool that for a given C# program generates syntax tree API calls that construct the syntax tree of that program.
 - [scriptcs](http://scriptcs.net/) - Turns C# into a powerful scripting tool. Features C# REPL, installation of NuGet packages, execution of scripts with a single line of code.
 - [SharpLab](https://sharplab.io/) - .NET code playground. Inspect intermediate steps and results of code compilation. See the code as compiler sees it. Test and use different branches and versions of Roslyn. Run C# code in the browser.
 - [Testura.Code](https://github.com/Testura/Testura.Code) - A wrapper around the Roslyn API used for generation, saving and compiling C# code. Provides methods and helpers to generate classes, methods, statements and expressions.
