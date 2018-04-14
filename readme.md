@@ -7,6 +7,7 @@
 - [Books](#books)
 - [Open Source Projects](#open-source-projects)
 - [Open Source Analyzers, Code Fixes, and Refactorings](#open-source-analyzers-code-fixes-and-refactorings)
+- [Tutorials](#tutorials)
 
 ## Books
 Awesome books to help you quickly learn Roslyn.
@@ -38,6 +39,11 @@ Awesome open source analyzers, code fixes, and refactorings.
 - [Roslyn Clr Heap Allocation Analyzer](https://github.com/Microsoft/RoslynClrHeapAllocationAnalyzer) - A C# heap allocation analyzer that can detect explicit and many implicit allocations like boxing, display classes a.k.a closures, implicit delegate creations, etc.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 190+ analyzers and 190+ refactorings for C#. Covers coding style, code readability and simplification, removing redundancies, fixing compiler errors and many more.
 - [StyleCop Analyzers for the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - A port of StyleCop rules to Roslyn.
+
+## Tutorials
+Awesome online tutorials to help you quickly learn Roslyn.
+
+- [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix) - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as syntax transformation.
 
 ## Contribute
 
