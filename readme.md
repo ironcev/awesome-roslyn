@@ -18,7 +18,7 @@ Awesome books to help you quickly learn Roslyn.
 Awesome open source projects built on top of Roslyn.
 
 - [MirrorSharp](https://github.com/ashmind/mirrorsharp) - An online C#, VB.NET, and F# code editor. Features code completion, method signature help, quick fixes, and diagnostics.
-- [OmniSharp](http://www.omnisharp.net/) - Enables a cross platform .NET development in the editor of your choice. A family of open source projects, each with one goal: To enable a great .NET experience in YOUR editor of choice.
+- [OmniSharp](http://www.omnisharp.net/) - Enables a cross platform .NET development in the editor of your choice. A family of open source projects, each with one goal: To enable a great .NET experience in your editor of choice.
 - [roslyn-linq-rewrite](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code. This increases performance by minimizes heap allocations and dynamic dispatch.
 - [RoslynPad](https://roslynpad.net/) - A cross-platform C# editor. Features code completion, method signature help, quick fixes, and diagnostics.
 - [RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) - A tool that for a given C# program generates syntax tree API calls that construct the syntax tree of that program.
