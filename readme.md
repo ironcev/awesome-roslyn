@@ -47,6 +47,11 @@ Awesome open source analyzers, code fixes, and refactorings.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 190+ analyzers and 190+ refactorings for C#. Covers coding style, code readability and simplification, removing redundancies, fixing compiler errors and many more.
 - [StyleCop Analyzers for the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - A port of StyleCop rules to Roslyn.
 
+## Blog Posts and Articles
+Awesome blog posts and online articles covering various topics like performance, Roslyn internals and similar.
+
+- [ReSharper and Roslyn: Q&A](https://blog.jetbrains.com/dotnet/2014/04/10/resharper-and-roslyn-qa/) - An excellent explanation why ReSharper will not use Roslyn. A good discussion on static code analysis and the limits of Roslyn.
+
 ## Contribute
 
 Contributions are welcome :-) The goal is to build a categorized community-driven collection of very well-known resources. Before contributing, please read the [contribution guidelines](contributing.md).
