@@ -12,6 +12,7 @@ Ensure your pull request adheres to the following guidelines:
 - Only put stuff on the list that you can personally recommend.
 - Ensure your contribution is grammatically correct, typo-free and has no Markdown formatting errors.
 - Ensure your entries are consistent with the existing styling (e.g. all entry descriptions end in a .).
+- Books and Tutorials are ordered by the recommended reading order. Entries in other categories are ordered alphabetically. Please place your entries accordingly.
 
 Thank you for your suggestions!
 
