@@ -5,9 +5,9 @@
 ## Contents
 
 - [Books](#books)
+- [Tutorials](#tutorials)
 - [Open Source Projects](#open-source-projects)
 - [Open Source Analyzers, Code Fixes, and Refactorings](#open-source-analyzers-code-fixes-and-refactorings)
-- [Tutorials](#tutorials)
 
 ## Books
 Awesome books to give you a good start with Roslyn.
@@ -15,6 +15,13 @@ Awesome books to give you a good start with Roslyn.
 - [Roslyn Succinctly](https://www.syncfusion.com/ebooks/roslyn) by Alessandro Del Sole *(free e-book)*
 - [.NET Development Using the Compiler API](https://www.apress.com/la/book/9781484221105) by Jason Bock
 - [Roslyn Cookbook](https://www.packtpub.com/application-development/roslyn-cookbook) by Manish Vasani
+
+## Tutorials
+Awesome online tutorials to help you write your first analyzers and code fixes.
+
+- [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix) - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as syntax transformation.
+- [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - A bit older but still not outdated, very detailed MSDN article on writing code analyzers.
+- [C# - Adding a Code Fix to Your Roslyn Analyzer](https://msdn.microsoft.com/en-us/magazine/dn904670.aspx) - The sequel of the previous MSDN article. A detailed introduction into code fixes.
 
 ## Open Source Projects
 Awesome open source projects built on top of Roslyn.
@@ -39,13 +46,6 @@ Awesome open source analyzers, code fixes, and refactorings.
 - [Roslyn Clr Heap Allocation Analyzer](https://github.com/Microsoft/RoslynClrHeapAllocationAnalyzer) - A C# heap allocation analyzer that can detect explicit and many implicit allocations like boxing, display classes a.k.a closures, implicit delegate creations, etc.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 190+ analyzers and 190+ refactorings for C#. Covers coding style, code readability and simplification, removing redundancies, fixing compiler errors and many more.
 - [StyleCop Analyzers for the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - A port of StyleCop rules to Roslyn.
-
-## Tutorials
-Awesome online tutorials to help you write your first Roslyn analyzers and code fixes.
-
-- [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix) - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as syntax transformation.
-- [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - A bit older but still not outdated, very detailed MSDN article on writing code analyzers.
-- [C# - Adding a Code Fix to Your Roslyn Analyzer](https://msdn.microsoft.com/en-us/magazine/dn904670.aspx) - The sequel of the previous MSDN article. A detailed introduction into code fixes.
 
 ## Contribute
 
