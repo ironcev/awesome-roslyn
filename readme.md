@@ -41,10 +41,11 @@ Awesome open source analyzers, code fixes, and refactorings.
 - [StyleCop Analyzers for the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - A port of StyleCop rules to Roslyn.
 
 ## Tutorials
-Awesome online tutorials to help you quickly learn Roslyn.
+Awesome online tutorials to help you write your first Roslyn analyzers and code fixes.
 
 - [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix) - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as syntax transformation.
 - [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - A bit older but still not outdated, very detailed MSDN article on writing code analyzers.
+- [C# - Adding a Code Fix to Your Roslyn Analyzer](https://msdn.microsoft.com/en-us/magazine/dn904670.aspx) - The sequel of the previous MSDN article. A detailed introduction into code fixes.
 
 ## Contribute
 
