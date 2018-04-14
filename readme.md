@@ -17,6 +17,7 @@ Awesome open source projects built on top of Roslyn.
 
 - [MirrorSharp](https://github.com/ashmind/mirrorsharp) - An online C#, VB.NET, and F# code editor. Features code completion, method signature help, quick fixes, and diagnostics.
 - [SharpLab](https://sharplab.io/) - .NET code playground. Inspect intermediate steps and results of code compilation. See the code as compiler sees it. Test and use different branches and versions of Roslyn. Run C# code in the browser.
+- [Testura.Code](https://github.com/Testura/Testura.Code) - A wrapper around the Roslyn API used for generation, saving and compiling C# code. Provides methods and helpers to generate classes, methods, statements and expressions.
 
 ## Contribute
 
