@@ -24,6 +24,7 @@ Awesome books to give you a good start with Roslyn.
 ## Tutorials
 Awesome online tutorials to help you write your first analyzers and code fixes.
 
+- [Learn Roslyn Now](https://joshvarty.com/learn-roslyn-now/) - A series of blog posts that explore the Roslyn compiler API. It introduces the power of Roslyn through small self-contained examples. A perfect tutorial to start with :-)
 - [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix) - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as syntax transformation.
 - [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - A bit older but still not outdated, very detailed MSDN article on writing code analyzers.
 - [C# - Adding a Code Fix to Your Roslyn Analyzer](https://msdn.microsoft.com/en-us/magazine/dn904670.aspx) - The sequel of the previous MSDN article. A detailed introduction into code fixes.
@@ -56,7 +57,6 @@ Awesome open source analyzers, code fixes, and refactorings.
 Awesome blog posts and online articles covering various topics like performance, Roslyn internals and similar.
 
 - [Inside the .NET Compiler Platform – Performance Considerations during Syntax Analysis (#SpeakRoslyn)](https://robinsedlaczek.com/2015/04/29/inside-the-net-compiler-platform-performance-considerations-during-syntax-analysis-speakroslyn/) - An in-depth look at Roslyn's performance with the focus on memory consumption.
-- [Learn Roslyn Now (Josh Varty)](https://joshvarty.com/learn-roslyn-now/) - A series of blog posts that explore the Roslyn compiler API.
 - [Persistence, Facades and Roslyn's Red-Green Trees](https://blogs.msdn.microsoft.com/ericlippert/2012/06/08/persistence-facades-and-roslyns-red-green-trees/) - An inspiring introduction on how Roslyn team implemented immutable, reusable trees with cheap parent references and many other goodies. Quote: "But on the Roslyn team we routinely do impossible things." :-)
 - [ReSharper and Roslyn: Q&A](https://blog.jetbrains.com/dotnet/2014/04/10/resharper-and-roslyn-qa/) - An excellent explanation why ReSharper will not use Roslyn. A good discussion on static code analysis and the limits of Roslyn.
 - [Roslyn performance (Matt Gertz)](https://blogs.msdn.microsoft.com/csharpfaq/2014/01/15/roslyn-performance-matt-gertz/) - An insight on how Roslyn team approaches the topic of evaluating and achieving performance.
