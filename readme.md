@@ -6,6 +6,8 @@
 
 > A curated list of Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
+Roslyn, officially named [.NET Compiler Platform](https://en.wikipedia.org/wiki/.NET_Compiler_Platform), is a set of open-source compilers and code analysis APIs for C# and Visual Basic .NET languages.
+
 ## Contents
 
 - [Books](#books)
