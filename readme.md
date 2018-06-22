@@ -36,6 +36,7 @@ Awesome open source projects built on top of Roslyn.
 
 - [Code Converter](https://github.com/icsharpcode/CodeConverter/) - Converts code from C# to VB.NET and vice versa.
 - [CodeAnalysis.CSharp.PatternMatching](https://github.com/pvginkel/Microsoft.CodeAnalysis.CSharp.PatternMatching) - Simplifies C# syntax and semantic analysis by providing an intuitive pattern matching for Roslyn syntax trees.
+- [dotnet-script](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI, define NuGet packages inline and   edit/debug them in VS Code - all of that with full language services support from OmniSharp.
 - [FlubuCore](https://github.com/flubu-core/flubu.core) - Fluent Builder. A cross platform build automation tool for building projects and executing deployment scripts using C# code.
 - [MirrorSharp](https://github.com/ashmind/mirrorsharp) - An online C#, VB.NET, and F# code editor. Features code completion, method signature help, quick fixes, and diagnostics.
 - [OmniSharp](http://www.omnisharp.net/) - Enables a cross platform .NET development in the editor of your choice. A family of open source projects, each with one goal: To enable a great .NET experience in your editor of choice.
