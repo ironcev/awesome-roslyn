@@ -69,6 +69,11 @@ Awesome blog posts and online articles covering various topics like performance,
 - [ReSharper and Roslyn: Q&A](https://blog.jetbrains.com/dotnet/2014/04/10/resharper-and-roslyn-qa/) - An excellent explanation why ReSharper will not use Roslyn. A good discussion on static code analysis and the limits of Roslyn.
 - [Roslyn performance (Matt Gertz)](https://blogs.msdn.microsoft.com/csharpfaq/2014/01/15/roslyn-performance-matt-gertz/) - An insight on how Roslyn team approaches the topic of evaluating and achieving performance.
 
+## Talks
+Awesome talks about Roslyn
+
+- [The Power of Roslyn](https://www.youtube.com/watch?v=nXljhGDokqA) - Great talk by Kasey Uhlenhuth explaining about Roslyn, analyzers, APIs and tools for building an analyzer/fixer. She also builds a simple analyzer and fixer and gives us some great references.
+
 ## Contribute
 
 Contributions are welcome :-) The goal is to build a categorized community-driven collection of very well-known resources. Before contributing, please read the [contribution guidelines](contributing.md).
