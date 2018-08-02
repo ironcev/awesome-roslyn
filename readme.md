@@ -36,6 +36,7 @@ Awesome open source projects built on top of Roslyn.
 
 - [Code Converter](https://github.com/icsharpcode/CodeConverter/) - Converts code from C# to VB.NET and vice versa.
 - [CodeAnalysis.CSharp.PatternMatching](https://github.com/pvginkel/Microsoft.CodeAnalysis.CSharp.PatternMatching) - Simplifies C# syntax and semantic analysis by providing an intuitive pattern matching for Roslyn syntax trees.
+- [dotnet-script](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI, define NuGet packages inline and   edit/debug them in VS Code - all of that with full language services support from OmniSharp.
 - [FlubuCore](https://github.com/flubu-core/flubu.core) - Fluent Builder. A cross platform build automation tool for building projects and executing deployment scripts using C# code.
 - [MirrorSharp](https://github.com/ashmind/mirrorsharp) - An online C#, VB.NET, and F# code editor. Features code completion, method signature help, quick fixes, and diagnostics.
 - [OmniSharp](http://www.omnisharp.net/) - Enables a cross platform .NET development in the editor of your choice. A family of open source projects, each with one goal: To enable a great .NET experience in your editor of choice.
@@ -43,6 +44,7 @@ Awesome open source projects built on top of Roslyn.
 - [RoslynPad](https://roslynpad.net/) - A cross-platform C# editor. Features code completion, method signature help, quick fixes, and diagnostics.
 - [RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) - A tool that for a given C# program generates syntax tree API calls that construct the syntax tree of that program.
 - [scriptcs](http://scriptcs.net/) - Turns C# into a powerful scripting tool. Features C# REPL, installation of NuGet packages, execution of scripts with a single line of code.
+- [Scripty](https://github.com/daveaglick/Scripty) - Tools to let you use Roslyn-powered C# scripts for code generation.
 - [Sharpen](http://sharpen.rocks) - A Visual Studio extension that intelligently introduces new C# language features into your existing code base.
 - [SharpLab](https://sharplab.io/) - .NET code playground. Displays intermediate steps and results of code compilation. Shows the code as compiler sees it. Allows selecting different branches and versions of Roslyn. Runs C#, VB.NET, and F# code in the browser.
 - [Testura.Code](https://github.com/Testura/Testura.Code) - A wrapper around the Roslyn API used for generation, saving and compiling C# code. Provides methods and helpers to generate classes, methods, statements and expressions.
