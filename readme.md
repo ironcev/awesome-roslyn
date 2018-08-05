@@ -15,6 +15,7 @@ Roslyn, officially named [.NET Compiler Platform](https://en.wikipedia.org/wiki/
 - [Open Source Projects](#open-source-projects)
 - [Open Source Analyzers, Code Fixes, and Refactorings](#open-source-analyzers-code-fixes-and-refactorings)
 - [Blog Posts and Articles](#blog-posts-and-articles)
+- [Talks](#talks)
 
 ## Books
 Awesome books to give you a good start with Roslyn.
@@ -72,7 +73,7 @@ Awesome blog posts and online articles covering various topics like performance,
 ## Talks
 Awesome talks about Roslyn
 
-- [The Power of Roslyn](https://www.youtube.com/watch?v=nXljhGDokqA) - Great talk by Kasey Uhlenhuth explaining about Roslyn, analyzers, APIs and tools for building an analyzer/fixer. She also builds a simple analyzer and fixer and gives us some great references.
+- [The Power of Roslyn](https://www.youtube.com/watch?v=nXljhGDokqA) - Great talk by Kasey Uhlenhuth at NDC Oslo 2018 about Roslyn, analyzers, APIs and tools for building an analyzer/fixer. She also builds a simple analyzer and fixer and gives us some great references.
 
 ## Contribute
 
