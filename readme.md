@@ -78,7 +78,7 @@ Awesome talks about Roslyn
 
 ## Contribute
 
-Contributions are welcome :-) The goal is to build a categorized community-driven collection of very well-known resources. Before contributing, please read the [contribution guidelines](contributing.md).
+Contributions are welcome :-) The goal is to build a categorized community-driven collection of awesome Roslyn resources. Before contributing, please make sure to read the [contribution guidelines](contributing.md).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
