@@ -35,6 +35,7 @@ Awesome online tutorials to help you write your first analyzers and code fixes.
 ## Open Source Projects
 Awesome open source projects built on top of Roslyn.
 
+- [Bridge](https://github.com/bridgedotnet/Bridge) - C# to JavaScript compiler. Write modern mobile and web apps in C#. Run them anywhere in JavaScript with Bridge.NET. 
 - [Code Converter](https://github.com/icsharpcode/CodeConverter/) - Converts code from C# to VB.NET and vice versa.
 - [CodeAnalysis.CSharp.PatternMatching](https://github.com/pvginkel/Microsoft.CodeAnalysis.CSharp.PatternMatching) - Simplifies C# syntax and semantic analysis by providing an intuitive pattern matching for Roslyn syntax trees.
 - [CodeGeneration.Roslyn](https://github.com/AArnott/CodeGeneration.Roslyn) - Roslyn-based Code Generation.
