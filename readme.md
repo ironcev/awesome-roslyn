@@ -58,6 +58,7 @@ Awesome open source analyzers, code fixes, and refactorings.
 - [Code Cracker](https://github.com/code-cracker/code-cracker) - An analyzer library for C# and VB.NET. Offers diagnostics in many categories like performance, coding styles, as well as some basic refactorings.
 - [CSharpGuidelinesAnalyzer](https://github.com/bkoelman/CSharpGuidelinesAnalyzer) - Reports diagnostics for C# coding guidelines (https://csharpcodingguidelines.com/).
 - [Refactoring Essentials for Visual Studio](https://github.com/icsharpcode/RefactoringEssentials/) - Refactorings, analyzers and code fixes for C# and VB.NET.
+- [Roslyn analyzers](https://github.com/dotnet/roslyn-analyzers) - A collection of Roslyn diagnostic analyzers.
 - [Roslyn Clr Heap Allocation Analyzer](https://github.com/Microsoft/RoslynClrHeapAllocationAnalyzer) - A C# heap allocation analyzer that can detect explicit and many implicit allocations like boxing, display classes a.k.a closures, implicit delegate creations, etc.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 190+ analyzers and 190+ refactorings for C#. Covers coding style, code readability and simplification, removing redundancies, fixing compiler errors and many more.
 - [SonarC#](https://github.com/SonarSource/sonar-csharp) - SonarC# is a static code analyzer for C# language used as an extension for the SonarQube platform. 
