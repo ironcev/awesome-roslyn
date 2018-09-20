@@ -50,6 +50,7 @@ Awesome open source projects built on top of Roslyn.
 - [Sharpen](http://sharpen.rocks) - A Visual Studio extension that intelligently introduces new C# language features into your existing code base.
 - [SharpLab](https://sharplab.io/) - .NET code playground. Displays intermediate steps and results of code compilation. Shows the code as compiler sees it. Allows selecting different branches and versions of Roslyn. Runs C#, VB.NET, and F# code in the browser.
 - [Testura.Code](https://github.com/Testura/Testura.Code) - A wrapper around the Roslyn API used for generation, saving and compiling C# code. Provides methods and helpers to generate classes, methods, statements and expressions.
+- [Uno SourceGenerator](https://github.com/nventive/Uno.SourceGeneration) - Provides a way to generate C# source code based on a project being built, using all of its syntactic and semantic model information.
 
 ## Open Source Analyzers, Code Fixes, and Refactorings
 Awesome open source analyzers, code fixes, and refactorings.
