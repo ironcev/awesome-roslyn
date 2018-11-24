@@ -59,7 +59,7 @@ Same as for [Open Source Projects](#open-source-projects).
 
 ## Updating your Pull Request
 
-Sometimes, making a pull request adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll maybe ask you to edit your pull request before we merge it. There's no need to open a new pull request, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) on the different ways you can update your pull request so that we can merge it.
+Sometimes, making a pull request adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll maybe ask you to edit your pull request before we merge it. There's no need to open a new pull request, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your pull request so that we can merge it.
 
 Note however that updating pull requests can sometimes be an unnecessary overhead. In practice, if your contribution points to an awesome resource it will be accepted. Eventual smaller issues will be fixed by maintainers. Also, keep in mind that the descriptions evolve over time as we find a better way to express them. It might be that your original description will change over time. That's fine. It's a sign of a healthy and living awesome list :-)
 
