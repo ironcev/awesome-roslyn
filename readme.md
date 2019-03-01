@@ -1,5 +1,7 @@
 <p align="center">
+	<a href="https://github.com/dotnet/roslyn">
     <img src="https://raw.githubusercontent.com/ironcev/awesome-roslyn/master/images/awesome-roslyn-logo.png" alt="Awesome Roslyn" style="max-width:100%;">
+	</a>
 </p>
 
 # Awesome Roslyn [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
