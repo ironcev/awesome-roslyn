@@ -20,9 +20,9 @@ Roslyn, officially named [.NET Compiler Platform](https://en.wikipedia.org/wiki/
 ## Books
 Awesome books to give you a good start with Roslyn.
 
-- [Roslyn Succinctly](https://www.syncfusion.com/ebooks/roslyn) by Alessandro Del Sole *(free e-book)*
-- [.NET Development Using the Compiler API](https://www.apress.com/la/book/9781484221105) by Jason Bock
-- [Roslyn Cookbook](https://www.packtpub.com/application-development/roslyn-cookbook) by Manish Vasani
+- [Roslyn Succinctly](https://www.syncfusion.com/ebooks/roslyn) - *Free e-book* by Alessandro Del Sole and the perfect book to start with. Explains Roslyn APIs and afterward focuses on writing analyzers and refactorings.
+- [.NET Development Using the Compiler API](https://www.apress.com/la/book/9781484221105) - Book by Jason Bock. Besides analyzers and refactorings, it also explains the scripting API and provides an interesting reflection on the future of the Compiler API.
+- [Roslyn Cookbook](https://www.packtpub.com/application-development/roslyn-cookbook) - Book by Manish Vasani, a member of the Roslyn analyzers team. After covering analyzers, refactorings, and scripting in detail, the book goes in-depth explaining how to develop new C# language features and contribute to the Roslyn source code.
 
 ## Tutorials
 Awesome online tutorials to help you write your first analyzers and code fixes.
