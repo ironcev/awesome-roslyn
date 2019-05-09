@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/dotnet/roslyn">
-    <img src="https://raw.githubusercontent.com/ironcev/awesome-roslyn/master/images/awesome-roslyn-logo.png" alt="Awesome Roslyn" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/ironcev/awesome-roslyn/master/images/awesome-roslyn-logo.png" alt="Awesome Roslyn" width="500">
 	</a>
 </p>
 
