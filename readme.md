@@ -1,10 +1,14 @@
 <p align="center">
-	<a href="https://github.com/dotnet/roslyn">
-    <img src="https://raw.githubusercontent.com/ironcev/awesome-roslyn/master/images/awesome-roslyn-logo.png" alt="Awesome Roslyn" width="500">
-	</a>
+    <a href="https://github.com/dotnet/roslyn">
+        <img src="https://raw.githubusercontent.com/ironcev/awesome-roslyn/master/images/awesome-roslyn-logo.png" alt="Awesome Roslyn" width="500">
+    </a>
 </p>
 
-# Awesome Roslyn [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<p align="center">
+    <a href="https://github.com/sindresorhus/awesome">
+        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+    </a>
+</p>
 
 > Curated list of Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
