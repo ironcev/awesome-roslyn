@@ -81,6 +81,16 @@ Awesome libraries and frameworks for testing analyzers, code fixes, and refactor
 - [Microsoft.CodeAnalysis.Testing](https://github.com/dotnet/roslyn-sdk/tree/master/src/Microsoft.CodeAnalysis.Testing) - Library for testing analyzers and code fixes with NUnit, xUnit and MSTest frameworks. A part of [Roslyn SDK](https://github.com/dotnet/roslyn-sdk).
 - [RoslynTestKit](https://github.com/cezarypiatek/RoslynTestKit) - Lightweight framework for writing unit tests for analyzers, code fixes, refactorings, and completion providers. It's unit testing framework agnostic.
 
+## C# Source Generators (.NET 5)
+Awesome (but mostly experimental right now, since .NET 5 is in preview) C# Source Generators.
+
+- [Introduction of C# Source Generators](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/) - Phillip Carter's introduction of Source Generators is a good place to get started with understanding what Source Generators are.
+- [Source Generator Samples](https://devblogs.microsoft.com/dotnet/new-c-source-generator-samples/) - Official samples, including source generators for CSV files, Mustache, automated INotifyPropertyChanged implementations and XML settings.
+- [Asyncify](https://mazeez.dev/posts/csharp-source-generators) - Use C# Source Generators to make all of your methods async.
+- [Svg to C# Source Generators](https://github.com/wieslawsoltes/SourceGenerators) - Compiles SVG drawing markup to C# using SkiaSharp as rendering engine (2D Graphics API for .NET)
+- [JsonSrcGen](https://trampster.blogspot.com/2020/09/jsonsrcgen-corert-pure-magic-in-my.html) - Reflection-free JSON generator. Allows extremely fast JSON processing.
+- [Compile Time Method Execution Generator](https://github.com/hermanussen/CompileTimeMethodExecutionGenerator) - Experimental source generator that allows executing a method during compilation, so that it can be really fast during runtime.
+
 ## Blog Posts and Articles
 Awesome blog posts and online articles covering various topics like performance, Roslyn internals and similar.
 
