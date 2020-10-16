@@ -52,6 +52,10 @@ Same as for [Open Source Projects](#open-source-projects).
 
 Same as for [Open Source Projects](#open-source-projects).
 
+## Source Generators
+
+Same as for [Open Source Projects](#open-source-projects).
+
 ## Blog Posts and Articles
 
 - Blog posts and articles are meant for more in-depth technical topics like performance, Roslyn internals and similar. Do not put here general tutorials.
