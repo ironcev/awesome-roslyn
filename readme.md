@@ -98,8 +98,9 @@ Awesome (but mostly experimental at the moment, because .NET 5.0 and C# 9.0 are 
 - [WrapperValueObject](https://github.com/martinothamar/WrapperValueObject) - Creates boilerplate free wrappers around types. Especially useful for creating [strongly typed wrappers around primitive types](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/).
 
 ## Blog Posts and Articles
-Awesome blog posts and online articles covering various topics like performance, Roslyn internals and similar.
+Awesome blog posts and online articles covering various topics like performance, Roslyn history, internals and similar.
 
+- [How Microsoft rewrote its C# compiler in C# and made it open source](https://medium.com/microsoft-open-source-stories/how-microsoft-rewrote-its-c-compiler-in-c-and-made-it-open-source-4ebed5646f98) - Roslyn's journey, presented by Mads Torgersen, the lead designer of C#. Inspiring story on how Roslyn project started and why, and what it took to make it open source.
 - [Inside the .NET Compiler Platform – Performance Considerations during Syntax Analysis (#SpeakRoslyn)](https://robinsedlaczek.com/2015/04/29/inside-the-net-compiler-platform-performance-considerations-during-syntax-analysis-speakroslyn/) - In-depth look at Roslyn's performance with the focus on memory consumption.
 - [Persistence, Facades and Roslyn's Red-Green Trees](https://blogs.msdn.microsoft.com/ericlippert/2012/06/08/persistence-facades-and-roslyns-red-green-trees/) - Inspiring introduction on how Roslyn team implemented immutable, reusable trees with cheap parent references and many other goodies. Quote: "But on the Roslyn team we routinely do impossible things" :-)
 - [ReSharper and Roslyn: Q&A](https://blog.jetbrains.com/dotnet/2014/04/10/resharper-and-roslyn-qa/) - Excellent explanation why ReSharper will not use Roslyn. Includes good discussion on static code analysis and some limits of Roslyn.
