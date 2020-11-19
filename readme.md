@@ -90,6 +90,7 @@ Awesome libraries and frameworks for testing analyzers, code fixes, and refactor
 Awesome (but mostly experimental at the moment, because .NET 5.0 and C# 9.0 are still in preview) source generators and open source projects that internally use source generators.
 
 - [DpDtInject](https://github.com/lsoft/DpdtInject) - Proof-of-concept of a dependency injection container that transfers huge piece of resolving logic to the compilation stage. Offers additional compile-time safety and fast runtime resolution.
+- [Generator.Equals](https://github.com/diegofrata/Generator.Equals) - Automatically implementation of equality and hashing for classes and records, supports a number of strategies for comparing properties and collections.
 - [JsonSrcGen](https://github.com/trampster/JsonSrcGen) - Reflection-free JSON serializer. Allows extremely fast JSON processing by generating reflection-free serializers at the compile time.
 - [Source Generator Playground](https://sourcegen.dev/) - Online application that lets you experiment with source generators. Perfect for learning and testing your ideas. Write your own source generator or learn from built-in examples and see the generated output.  
 - [StrongInject](https://github.com/YairHalberstadt/stronginject) - Compile-time dependency injection container. Compile-time checked, reflection-free and runtime code generation free, thus fast and [app-trimming](https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/)-friendly. 
