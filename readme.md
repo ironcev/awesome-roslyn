@@ -106,6 +106,7 @@ Awesome blog posts and online articles covering various topics like performance,
 - [Persistence, Facades and Roslyn's Red-Green Trees](https://blogs.msdn.microsoft.com/ericlippert/2012/06/08/persistence-facades-and-roslyns-red-green-trees/) - Inspiring introduction on how Roslyn team implemented immutable, reusable trees with cheap parent references and many other goodies. Quote: "But on the Roslyn team we routinely do impossible things" :-)
 - [ReSharper and Roslyn: Q&A](https://blog.jetbrains.com/dotnet/2014/04/10/resharper-and-roslyn-qa/) - Excellent explanation why ReSharper will not use Roslyn. Includes good discussion on static code analysis and some limits of Roslyn.
 - [Roslyn performance (Matt Gertz)](https://blogs.msdn.microsoft.com/csharpfaq/2014/01/15/roslyn-performance-matt-gertz/) - Insight on how Roslyn team approaches the topic of evaluating and achieving performance.
+- [.NET 5 Source Generators - MediatR - CQRS - OMG!](https://www.edument.se/en/blog/post/net-5-source-generators-mediatr-cqrs) -  Eplores how you can use the new source generator feature in .NET 5 to automatically generate an API for a system using the MediatR library and the CQRS pattern.
 
 ## Talks
 Awesome public talks about Roslyn.
