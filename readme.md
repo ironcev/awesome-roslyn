@@ -69,6 +69,7 @@ Awesome open source analyzers, code fixes, and refactorings.
 
 - [.NET Analyzers](https://github.com/DotNetAnalyzers) - GitHub organization for the development of Roslyn analyzers. Various repositories within the organization cover analyzers for ASP.NET Core, WPF, IDisposable, usages of System.Reflection, etc.
 - [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) - Diagnostic analyzers developed by the Roslyn team. Initially developed to help flesh out the design and implementation of the static analysis APIs. The analyzers cover code quality, .NET Core, desktop .NET Framework, comments in code, and more.
+- [AsyncFixer](https://github.com/semihokur/asyncfixer) - AsyncFixer helps developers in finding and correcting common async/await misuses (i.e., anti-patterns).
 - [Code Cracker](https://github.com/code-cracker/code-cracker) - Analyzer library for C# and VB.NET. Offers diagnostics in many categories like performance, coding styles, as well as some basic refactorings.
 - [CSharpGuidelinesAnalyzer](https://github.com/bkoelman/CSharpGuidelinesAnalyzer) - Reports diagnostics for C# coding guidelines (https://csharpcodingguidelines.com/).
 - [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of analyzers and code fixes focusing on the correctness and performance of C# programs. Inspired with Google's [Error Prone](https://github.com/google/error-prone).
