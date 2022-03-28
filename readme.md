@@ -80,6 +80,7 @@ Awesome open source analyzers, code fixes, and refactorings.
 - [SonarC#](https://github.com/SonarSource/sonar-csharp) - Static code analyzer for C# language used as an extension for the SonarQube platform.
 - [StyleCop Analyzers for the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - Port of StyleCop rules to Roslyn.
 - [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) - Collection of code-quality analyzers. Covers usages of async methods, flags enums, best practices in exception handling as well as many other code-quality checks.
+- [Security Code Scan](https://security-code-scan.github.io) - Static analysis tool that detects various security vulnerability patterns.
 
 ## Libraries and Frameworks for Testing Analyzers, Code Fixes, and Refactorings
 Awesome libraries and frameworks for testing analyzers, code fixes, and refactorings.
