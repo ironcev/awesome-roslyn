@@ -79,7 +79,7 @@ Awesome open source analyzers, code fixes, and refactorings.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - Collection of 190+ analyzers and 190+ refactorings for C#. Covers coding style, code readability and simplification, removing redundancies, fixing compiler errors, and many more.
 - [SonarC#](https://github.com/SonarSource/sonar-csharp) - Static code analyzer for C# language used as an extension for the SonarQube platform.
 - [StyleCop Analyzers for the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - Port of StyleCop rules to Roslyn.
-- [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) - Collection of code-quality analyzers. Covers usages of async methods, flags enums, best practices in exception handling as well as many other code-quality checks.
+- [SharpSource](https://github.com/Vannevelj/SharpSource) - surfacing defects at compile time and preventing issues that would otherwise go unnoticed.
 
 ## Libraries and Frameworks for Testing Analyzers, Code Fixes, and Refactorings
 Awesome libraries and frameworks for testing analyzers, code fixes, and refactorings.
